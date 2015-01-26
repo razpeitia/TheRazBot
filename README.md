@@ -1,8 +1,9 @@
-Introduction
+Overview
 ====
 
 TheRazBot is a simple twitter bot, his job is remaind you some tweet in the future. All you need to do is make a mention to @razpeitia_ and put some offset given in the format HH:MM (hours:minutes).
 
+Tweet example: `@razpeitia_ remember me this tweet in 00:05`
 
 Requirements
 ====
