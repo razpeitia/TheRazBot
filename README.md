@@ -16,7 +16,7 @@ Setup
 ====
 
 * Make a virtualenv, you can use virtualenvwrapper.
-* Install all the dependencies `pip install requirements.txt`
+* Install all the dependencies `pip install -r requirements.txt`
 * Set the environment variables:
     * API\_KEY
     * API\_SECRET
